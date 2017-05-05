@@ -11,3 +11,6 @@ The New York City Taxi & Limousine Commission has released a extraordinarily lar
 Plots
 -----
 
+![alt text](https://github.com/zefeng-zhang/NYC-taxi-trip-analysis-using-Spark/blob/master/images/JFK.png)
+
+![alt text](https://github.com/zefeng-zhang/NYC-taxi-trip-analysis-using-Spark/blob/master/images/LGA.png)
