@@ -1,4 +1,4 @@
-NYC taxi trip analysis - The Spark Way
+NYC Taxi Trip Analysis - The Spark Way
 ======================================
 
 by Zefeng Zhang, Matthew Wang, Keyang Zhang
@@ -10,6 +10,8 @@ The New York City Taxi & Limousine Commission has released a extraordinarily lar
 
 Plots
 -----
+
+The two figures below are the screenshots of the interacitve heatmap plots. The color represents the trip duration from pick up locations to airports. In other words, the darker the color the longer the trip takes.
 
 ![alt text](https://github.com/zefeng-zhang/NYC-taxi-trip-analysis-using-Spark/blob/master/images/JFK.png)
 
